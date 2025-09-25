@@ -1,2 +1,2 @@
 # eco-commerce-navigator
-Sustainable e-commerce chatbot for Sensay Connect Hackathon – integrates Shopify, Carbon Interface, and Sensay for real-time eco-shopping guidance.
+AI-powered eco-shopping chatbot for Sensay Connect Hackathon. Searches web for eco-products, syncs with Shopify, deploys to WhatsApp/Telegram.
